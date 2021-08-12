@@ -69,3 +69,15 @@
 
 // //부정(Not) 연산자
 // console.log('!: ', !d) //!:  false  반대값 반환, d가 false이기 때문에 true반환
+
+// 삼항연산자(ternary operator)
+
+// const a = 1 < 2 //true
+
+// if (a) {
+//   console.log('참');
+// } else {
+//   console.log('거짓');
+// }
+
+// console.log(a ? '참' : '거짓');
