@@ -61,4 +61,11 @@
 // console.log(sum( 1 ,3));
 
 
-//
+//aruments
+
+// function sum() {
+//   console.log(arguments) //aruments: 함수안에서 언제든지 사용할 수 있다.
+//   return arguments[0] + arguments[1] //인수가 너무 많아 매개변수 이름을 따로 지정할 수 없을 때 일괄적으로 사용하기 위해 사용한다.
+// }
+
+// console.log(sum(7,3));
