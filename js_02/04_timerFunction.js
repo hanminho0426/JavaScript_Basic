@@ -13,7 +13,7 @@
 // } ,3000) //1000ms는 1초
 
 // const timer = setTimeout(() => {
-//   console.log('Git!')
+//   console.log('Git!');
 // },3000)
 
 // const h1El = document.querySelector('h1');
@@ -30,4 +30,3 @@
 //   clearInterval(timer)
 // })
 
-//다시보기 오류남
